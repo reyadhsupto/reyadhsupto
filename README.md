@@ -39,13 +39,14 @@
 [![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto)
 [![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat&logo=pytorch&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 [![OpenCV](https://img.shields.io/badge/-OpenCV-gray?style=flat&logo=opencv&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
+[![Skimage](https://img.shields.io/badge/-ScikitImage-gray?style=flat&logo=opencv&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto)
 [![NLTK](https://img.shields.io/badge/-NLTK-red?style=flat&logo=nltk&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 
 [![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat&logo=opegl&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/reyadhsupto)
 [![Streamlit](https://img.shields.io/badge/-streamlit-%43B02A?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/reyadhsupto) 
-[![BeautifulSoup](https://img.shields.io/badge/-bs4-black?style=flat&logo=opegl&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
+[![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat&logo=opegl&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 
 
 
