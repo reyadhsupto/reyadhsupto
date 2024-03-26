@@ -36,9 +36,9 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto)
 
-[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
-[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy)
-[![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat&logo=pytorch&link=https://github.com/FaisalAhmedBijoy)](https://github.com/FaisalAhmedBijoy) 
+[![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
+[![Keras](https://img.shields.io/badge/-Keras-red?style=flat&logo=keras&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat&logo=pytorch&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 [![OpenCV](https://img.shields.io/badge/-OpenCV-gray?style=flat&logo=opencv&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 [![NLTK](https://img.shields.io/badge/-NLTK-red?style=flat&logo=nltk&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 
