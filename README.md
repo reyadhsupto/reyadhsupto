@@ -50,6 +50,7 @@
 [![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat&logo=opegl&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/reyadhsupto)
+[![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)](https://github.com/reyadhsupto)
 [![Streamlit](https://img.shields.io/badge/-streamlit-%43B02A?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/reyadhsupto) 
 [![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-black?style=flat&logo=opegl&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 
