@@ -42,6 +42,11 @@
 [![Skimage](https://img.shields.io/badge/-ScikitImage-gray?style=flat&logo=opencv&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto)
 [![NLTK](https://img.shields.io/badge/-NLTK-red?style=flat&logo=nltk&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 
+[![Pandas](https://img.shields.io/badge/-Pandas-gray?style=flat&logo=nltk&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto)
+[![NumPy](https://img.shields.io/badge/-NumPy-red?style=flat&logo=nltk&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-gray?style=flat&logo=nltk&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-red?style=flat&logo=nltk&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto)
+
 [![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat&logo=opegl&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 
 [![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://github.com/reyadhsupto)
