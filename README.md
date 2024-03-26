@@ -5,8 +5,8 @@
 
 👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Faridpur Engineering College](http://www.fec.ac.bd/)** 
 
-[![Linkedin Badge](https://img.shields.io/badge/-ReyadHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reyadhsupto/)](https://www.linkedin.com/in/reyadhsupto/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Hackerrank Badge](https://img.shields.io/badge/-@reyadhsupto-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/profile/reyadhsupto/)](https://www.hackerrank.com/profile/reyadhsupto)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-hassan.reyad01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassan.reyad01@gmail.com)](mailto:hassan.reyad01gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+[![Linkedin Badge](https://img.shields.io/badge/-ReyadHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reyadhsupto/)](https://www.linkedin.com/in/reyadhsupto/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Hackerrank Badge](https://img.shields.io/badge/-@reyadhsupto-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/profile/reyadhsupto/)](https://www.hackerrank.com/profile/reyadhsupto)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-hassan.reyad01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassan.reyad01@gmail.com)](mailto:hassan.reyad01gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [![Kaggle Badge](https://img.shields.io/badge/reyadhsupto-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=[https://www.hackerrank.com/profile/reyadhsupto/](https://www.kaggle.com/hassanreyad))]([https://www.hackerrank.com/profile/reyadhsupto](https://www.kaggle.com/hassanreyad))   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+https://img.shields.io/badge/reyadhsupto-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&link=https://www.hackerrank.com/profile/reyadhsupto/
 ### About me :eyes:
 
 - Data Science Intern | Somikoron Ai | Dhaka, Bagladesh
@@ -42,6 +42,10 @@
 [![OpenCV](https://img.shields.io/badge/-OpenCV-gray?style=flat&logo=opencv&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 [![NLTK](https://img.shields.io/badge/-NLTK-red?style=flat&logo=nltk&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 
+[![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat&logo=opegl&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
+
+[![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat&logo=opegl&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
+[![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat&logo=opegl&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 [![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat&logo=opegl&link=https://github.com/reyadhsupto)](https://github.com/reyadhsupto) 
 
 
