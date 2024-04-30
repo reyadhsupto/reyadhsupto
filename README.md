@@ -9,7 +9,7 @@
 ### About me :eyes:
 
 - Data Science Intern | Somikoron Ai | Dhaka, Bagladesh
-- :dart: Research Interest | Artificial Intelligence | Machine learning | Deep learning | Image Processing and Computer vision | Natural Language Processing    
+- :dart: Research Interest | Artificial Intelligence | Machine learning | Deep learning | Image Processing and Computer vision | Natural Language Processing  | Software Testing | Quality Assurance | Web Browser Automation | Web Crawling 
 - :e-mail: Ask me about anything ; **hassan.reyad01@gmail.com**
 
 
