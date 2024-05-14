@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-ReyadHassan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/reyadhsupto/)](https://www.linkedin.com/in/reyadhsupto/)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Hackerrank Badge](https://img.shields.io/badge/-@reyadhsupto-03a57a?style=flat-square&labelColor=000000&logo=hackerrank&link=https://www.hackerrank.com/profile/reyadhsupto/)](https://www.hackerrank.com/profile/reyadhsupto)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Gmail Badge](https://img.shields.io/badge/-hassan.reyad01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hassan.reyad01@gmail.com)](mailto:hassan.reyad01gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   [![Kaggle Badge](https://img.shields.io/badge/-@reyadhsupto-03a57a?style=flat-square&labelColor=000000&logo=kaggle&link=https://www.kaggle.com/hassanreyad)](https://www.kaggle.com/hassanreyad)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ### About me :eyes:
 
-- Data Science Intern | Somikoron Ai | Dhaka, Bagladesh
+- Software Testing | Data Science | Python Developer
 - :dart: Research Interest | Artificial Intelligence | Machine learning | Deep learning | Image Processing and Computer vision | Natural Language Processing  | Software Testing | Quality Assurance | Web Browser Automation | Web Crawling 
 - :e-mail: Ask me about anything ; **hassan.reyad01@gmail.com**
 
