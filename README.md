@@ -2,7 +2,7 @@
 ### Hey 👋, I'm **[Reyad Hassan](https://www.linkedin.com/in/reyadhsupto/)** 👨‍💻
 
 ##Experience
-👨‍🎓 Software Quality Assurance Intern  **[RedDot Digital Limited( A Robi Axiata Subsidary](https://www.reddotdigitalit.com/)**
+👨‍🎓 Software Quality Assurance Engineer  **[Indetechs Software Limited](https://indetechs.com/)**
 ##Education
 👨‍🎓 B.Sc. in Computer Science and Engineering from  **[Faridpur Engineering College](http://www.fec.ac.bd/)** 
 
