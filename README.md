@@ -86,7 +86,7 @@
     media="(prefers-color-scheme: dark)"
     srcset="breakout-dark.svg"
   />
-  <img alt="Breakout Game" src="images/breakout-dark.svg" />
+  <img alt="Breakout Game" src="breakout-dark.svg" />
 </picture>
 
 <hr>
