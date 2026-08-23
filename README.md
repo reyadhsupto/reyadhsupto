@@ -27,10 +27,10 @@
     <br>
   - 💻 𝙸 𝚕𝚘𝚟𝚎 𝚝𝚎𝚜𝚝𝚒𝚗𝚐 Api, 𝚆𝚎𝚋 𝚊𝚗𝚍 𝙼𝚘𝚋𝚒𝚕𝚎 𝙰𝚙𝚙𝚜
     <br>
-  - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚔𝟼, 𝙿𝚕𝚊𝚢𝚠𝚛𝚒𝚐𝚑𝚝, Locust
+  - 🌱 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚔𝟼, 𝙿𝚕𝚊𝚢𝚠𝚛𝚒𝚐𝚑𝚝, Locust
     <br>
-  - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <a href="mailto: hassan.reyad01@gmail.com">hassan.reyad01@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖</a>
-</𝚙>
+  - 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: <a href="mailto:hassan.reyad01@gmail.com">hassan.reyad01@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖</a>
+</p>
 
 ##  My Github Stats
 
@@ -38,7 +38,7 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=reyadhsupto&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="reyadhsupto's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=reyadhsupto&theme=transparent&count_private=true&border_radius=10&locale=en" alt="reyadhsupto's" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=reyadhsupto&theme=transparent&count_private=true&border_radius=10&locale=en" alt="reyadhsupto's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=reyadhsupto&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="reyadhsupto's Most Used Languages" />
 </div>
 
